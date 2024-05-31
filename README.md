@@ -35,11 +35,11 @@ Sitio Web responsive, desarrollado con Django Framework, utilizando Python, Post
 
 *A responsive website, developed with the Django Framework, using Python, PostgreSQL, HTML, CSS, and Bootstrap. This is an example of Frontend design, using the Django ORM and admin panel, handling forms, user login, searches, and more.*
 
-![Captura de pantalla 1](home.jpg)
-![Captura de pantalla 2](libros.jpg)
-![Captura de pantalla 3](detalle_libro.jpg)
-![Captura de pantalla 4](busqueda.jpg)
-![Captura de pantalla 5](busqueda_categoria.jpg)
+![Captura de pantalla 1](screenshots/home.jpg)
+![Captura de pantalla 2](screenshots/libros.jpg)
+![Captura de pantalla 3](screenshots/detalle_libro.jpg)
+![Captura de pantalla 4](screenshots/busqueda.jpg)
+![Captura de pantalla 5](screenshots/busqueda_categoria.jpg)
 
 ## Páginas Web - Web Pages
 
