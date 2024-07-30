@@ -1,12 +1,12 @@
 # Jose Contreras Stoltze
 
-**Desarrollador Fullstack**, con conocimientos en diversos lenguajes y frameworks, principalmente Python, Django, Javascript, Node y React.
-**Técnico en Informática** titulado en Instituto Profesional IPLACEX.
-**Licenciado en Artes** de la Universidad de Chile.
+- **Desarrollador Fullstack**, con conocimientos en diversos lenguajes y frameworks, principalmente Python, Django, Javascript, Node y React.
+- **Técnico en Informática** titulado en Instituto Profesional IPLACEX.
+- **Licenciado en Artes** de la Universidad de Chile.
 
-**Fullstack Developer**, with knowledge in various languages and frameworks, mainly Python, Django, JavaScript, Node, and React.
-**Computer Technician** graduated from IPLACEX Professional Institute.
-**Bachelor of Arts** from the University of Chile.
+- **Fullstack Developer**, with knowledge in various languages and frameworks, mainly Python, Django, JavaScript, Node, and React.
+- **Computer Technician** graduated from IPLACEX Professional Institute.
+- **Bachelor of Arts** from the University of Chile.
 
 ## Diplomados, Cursos y Certificaciones (Diplomas, Courses, and Certifications)
 
