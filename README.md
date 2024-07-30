@@ -50,8 +50,6 @@ Sitio Web responsive, desarrollado con Django.
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=jmcstoltze&show_icons=true&theme=jolly" alt="github stats" />
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmcstoltze&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Stack Tecnológico (Tech Stack)
