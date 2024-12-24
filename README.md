@@ -14,26 +14,12 @@
 - Programación Multiplataforma - *Multiplatform Programming*
 - Programación Programación Avanzada - *Advanced Programming*
 - Integración Continua - *Continuous Integration*
-- Introduction to Data Science - CISCO Networking Academy
 - Python Essentials - CISCO Networking Academy
-- Certificado Análisis de Datos | Google - *Data Analysis Certificate*
 - Certificación Oracle Next Education | ORACLE Alura Latam - *Oracle Next Education Certification*
+- Introduction to Data Science - CISCO Networking Academy
+- Certificado Análisis de Datos | Google - *Data Analysis Certificate*
 
 ## Trabajos destacados (Featured Work)
-
-### Veterinaria San Blas
-
-[https://github.com/jmcstoltze/veterinaria-san-blas]
-[https://veterinaria-san-blas.onrender.com/]
-
-Aplicación web responsiva diseñada para la atención médica veterinaria. Desarrollada con Python & Django
-
-![Captura de pantalla 1](screenshots/captura_1.jpg)
-<p align="center">
-    <img src="screenshots/captura_3.jpg" alt="Captura de pantalla 3" width="200"/>
-    <td>&nbsp;&nbsp;&nbsp;</td>
-    <img src="screenshots/captura_4.jpg" alt="Captura de pantalla 4" width="200"/>
-</p>
 
 ### Reseñas de Libros (Books Reviews)
 
@@ -44,6 +30,17 @@ Sitio Web responsive, desarrollado con Django.
 ![Captura de pantalla 2](screenshots/libros.jpg)
 ![Captura de pantalla 3](screenshots/detalle_libro.jpg)
 ![Captura de pantalla 4](screenshots/busqueda.jpg)
+
+### Veterinaria San Blas
+
+Aplicación web responsiva diseñada para la atención médica veterinaria. Desarrollada con Python & Django
+
+![Captura de pantalla 1](screenshots/captura_1.jpg)
+<p align="center">
+    <img src="screenshots/captura_3.jpg" alt="Captura de pantalla 3" width="200"/>
+    <td>&nbsp;&nbsp;&nbsp;</td>
+    <img src="screenshots/captura_4.jpg" alt="Captura de pantalla 4" width="200"/>
+</p>
 
 ## GitHub Stats
 
@@ -57,7 +54,7 @@ HTML | CSS | Bootstrap | Javascript | React | Vue | JQuery | Ionic | Angular | X
 
 ### Backend
 
-Django | Python | Javascript | Typescript | Node | Java | PHP | C# | Entity Framework (.NET) | Axios | JSON | XML | PostgreSQL | SQL Server | Oracle Database | MySQL | SQLite | MongoDB | Amazon Dynamo DB | Firebase
+Django | Python | Javascript | Typescript | Node | Java | PHP | C# | Entity Framework (.NET) | Axios | JSON | XML | PostgreSQL | SQL Server | Oracle Database | MySQL | SQLite | MongoDB | Amazon Dynamo DB | Firebase | VBA (Visual Basic for Applications)
 
 ### Herramientas (Tools)
 
