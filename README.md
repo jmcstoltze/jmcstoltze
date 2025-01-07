@@ -15,9 +15,7 @@
 - Programación Programación Avanzada - *Advanced Programming*
 - Integración Continua - *Continuous Integration*
 - Python Essentials - CISCO Networking Academy
-- Certificación Oracle Next Education | ORACLE Alura Latam - *Oracle Next Education Certification*
 - Introduction to Data Science - CISCO Networking Academy
-- Certificado Análisis de Datos | Google - *Data Analysis Certificate*
 
 ## Trabajos destacados (Featured Work)
 
