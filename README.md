@@ -33,6 +33,8 @@ Sitio Web responsive, desarrollado con Django.
 
 Aplicación web responsiva diseñada para la atención médica veterinaria. Desarrollada con Python & Django
 
+Prototipo de las vistas disponible en: https://jmcstoltze.github.io/front_san_blas/
+
 ![Captura de pantalla 1](screenshots/captura_1.jpg)
 <p align="center">
     <img src="screenshots/captura_3.jpg" alt="Captura de pantalla 3" width="200"/>
