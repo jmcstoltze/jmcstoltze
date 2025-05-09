@@ -42,6 +42,15 @@ Prototipo de las vistas disponible en: https://jmcstoltze.github.io/front_san_bl
     <img src="screenshots/captura_4.jpg" alt="Captura de pantalla 4" width="200"/>
 </p>
 
+### Prototipo POS
+
+Vistas interactivas de prototipo en desarrollo para Django, Python y PostgreSQL.
+
+[https://jmcstoltze.github.io/prototipo-pos/]
+
+![Captura de pantalla 5](screenshots/pagina-login.png)
+![Captura de pantalla 6](screenshots/pagina-dashboard.png)
+
 ## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmcstoltze&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
