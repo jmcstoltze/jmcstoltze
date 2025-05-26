@@ -26,14 +26,11 @@
 📂 **[Repositorio](https://github.com/jmcstoltze/landing-page-psicologia)**
 
 <div align="center" style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-
-  **Vista Principal**
   <div style="display: flex; justify-content: center; gap: 20px; width: 100%;">
     <img src="screenshots/screenshot-lg-1.png" alt="Desktop View 1" style="width: 45%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <img src="screenshots/screenshot-lg-2.png" alt="Desktop View 2" style="width: 45%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
-  
-  **Vistas Móviles**
+
   <div style="display: flex; justify-content: center; gap: 20px; width: 100%;">
     <img src="screenshots/screenshot-sm-1.jpg" alt="Mobile View 1" style="width: 20%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <img src="screenshots/screenshot-sm-2.jpg" alt="Mobile View 2" style="width: 20%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
@@ -60,12 +57,10 @@ Vistas interactivas de prototipo en desarrollo para Django, Python y PostgreSQL.
 🔗 **[Prototipo interactivo](https://jmcstoltze.github.io/front_san_blas/)**
 📂 **[Repositorio](https://github.com/jmcstoltze/veterinaria-san-blas)**
 
-**Vista Principal**  
 <div align="center">
   <img src="screenshots/captura_1.jpg" alt="Interfaz principal" width="65%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
-**Vistas Móviles**  
 <p align="center">
   <img src="screenshots/captura_3.jpg" alt="Mobile View 1" width="30%" style="margin-right: 20px; border-radius: 8px;">
   <img src="screenshots/captura_4.jpg" alt="Mobile View 2" width="30%" style="border-radius: 8px;">
@@ -75,7 +70,6 @@ Vistas interactivas de prototipo en desarrollo para Django, Python y PostgreSQL.
 
 Sitio Web responsive, desarrollado con Django.
 
-🔗 **[Vista en GitHub](https://github.com/jmcstoltze/proyecto_libros_django)**
 📂 **[Repositorio](https://github.com/jmcstoltze/proyecto_libros_django)**
 
 <div align="center" style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
@@ -99,7 +93,6 @@ Sitio Web responsive, desarrollado con Django.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
 
