@@ -25,26 +25,27 @@
 🔗 **[Demo en GitHub Pages](https://jmcstoltze.github.io/landing-page-psicologia/)**
 📂 **[Repositorio](https://github.com/jmcstoltze/landing-page-psicologia)**
 
-#### 🖼️ Screenshots
-
 <div align="center" style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+
+  **Vista Principal**
   <div style="display: flex; justify-content: center; gap: 20px; width: 100%;">
     <img src="screenshots/screenshot-lg-1.png" alt="Desktop View 1" style="width: 45%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <img src="screenshots/screenshot-lg-2.png" alt="Desktop View 2" style="width: 45%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
   
+  **Vistas Móviles**
   <div style="display: flex; justify-content: center; gap: 20px; width: 100%;">
     <img src="screenshots/screenshot-sm-1.jpg" alt="Mobile View 1" style="width: 20%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <img src="screenshots/screenshot-sm-2.jpg" alt="Mobile View 2" style="width: 20%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
 </div>
 
-### 🖥️ Prototipo POS
-📂 **[Repositorio](https://github.com/jmcstoltze/aplicacion-pos)**
+### 🖥️ Prototipo POS (Point of Sale Prototype)
 
 Vistas interactivas de prototipo en desarrollo para Django, Python y PostgreSQL.
 
 🔗 **[Demo interactiva](https://jmcstoltze.github.io/prototipo-pos/)**
+📂 **[Repositorio](https://github.com/jmcstoltze/aplicacion-pos)**
 
 <div align="center" style="margin: 20px 0;">
   <img src="screenshots/pagina-login.png" alt="Vista Login" width="45%" style="border: 1px solid #ddd; border-radius: 8px; margin: 0 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
@@ -59,8 +60,6 @@ Vistas interactivas de prototipo en desarrollo para Django, Python y PostgreSQL.
 🔗 **[Prototipo interactivo](https://jmcstoltze.github.io/front_san_blas/)**
 📂 **[Repositorio](https://github.com/jmcstoltze/veterinaria-san-blas)**
 
-#### 📸 Capturas del Sistema  
-
 **Vista Principal**  
 <div align="center">
   <img src="screenshots/captura_1.jpg" alt="Interfaz principal" width="65%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
@@ -73,13 +72,11 @@ Vistas interactivas de prototipo en desarrollo para Django, Python y PostgreSQL.
 </p>
 
 ### 📚 Reseñas de Libros (Book Reviews Platform)
-📂 **[Repositorio](https://github.com/jmcstoltze/proyecto_libros_django)**
 
 Sitio Web responsive, desarrollado con Django.
 
 🔗 **[Vista en GitHub](https://github.com/jmcstoltze/proyecto_libros_django)**
-
-#### 🖼️ Screenshots
+📂 **[Repositorio](https://github.com/jmcstoltze/proyecto_libros_django)**
 
 <div align="center" style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
   <img src="screenshots/libros.jpg" alt="Book Listing Page" style="width: 80%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
