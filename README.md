@@ -4,7 +4,7 @@
 - **Computer Technician** graduated from IPLACEX Professional Institute.
 - **Bachelor of Arts** from the University of Chile.
 
-## Diplomados, Cursos y Certificaciones (Diplomas, Courses, and Certifications)
+## 🎓📜 Diplomados, Cursos y Certificaciones (Diplomas, Courses, and Certifications)
 
 - Desarrolador Fullstack Python | Django Framework - Desafío Latam *Fullstack Python | Django Framework Developer*
 - Programación Orientada a Objetos - *Object-Oriented Programming*
