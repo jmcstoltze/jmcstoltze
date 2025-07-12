@@ -125,4 +125,5 @@ Sitio Web responsive, desarrollado con Django.
 ## 📬 Contacto (Contact)
 
 - Email: **<jmcontreras.stoltze@gmail.com>**
-- Linkedin **[https://www.linkedin.com/in/jose-contreras-stoltze]**
+- Linkedin: **[https://www.linkedin.com/in/jose-contreras-stoltze]**
+- Vimeo: **[https://vimeo.com/jmcontreras]**
