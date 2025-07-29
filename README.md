@@ -18,6 +18,25 @@
 
 ## 🌟 Trabajos destacados (Featured Work)
 
+### 📚 Script Libreria Online (Script Online Library) 
+
+**Solución digital completa** Convierte datos desde Excel a JSON y renderiza el contenido, para gestión de libros.
+
+🔗 **[Demo en GitHub Pages](https://jmcstoltze.github.io/script-libreria/)**
+📂 **[Repositorio](https://github.com/jmcstoltze/script-libreria)**
+
+<div align="center" style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+  <div style="display: flex; justify-content: center; gap: 20px; width: 100%;">
+    <img src="screenshots/large-screen.png" alt="Desktop View 1" style="width: 40%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="screenshots/script-py2.png" alt="Script View 1" style="width: 60%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+
+  <div style="display: flex; justify-content: center; gap: 20px; width: 100%;">
+    <img src="screenshots/pantalla-mediana1.jpg" alt="Tablet View 1" style="width: 20%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="screenshots/pantalla-mediana2.jpg" alt="Tablet View 2" style="width: 20%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+</div>
+
 ### 🧠 Atención Psicológica (Psychology Landing Page)
 
 **Landing page responsiva** desarrollada por encargo con diseño moderno y efectos interactivos.
