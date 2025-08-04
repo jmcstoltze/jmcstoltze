@@ -80,6 +80,22 @@ Vistas interactivas de prototipo en desarrollo para Django, Python y PostgreSQL.
   <img src="screenshots/captura_4.jpg" alt="Mobile View 2" width="30%" style="border-radius: 8px;">
 </p>
 
+### 🎙️ Podcast Magazine Online
+
+Sitio web responsivo en forma de plantilla genérica que reproduce audio y comparte archivos PDF.
+Desarrollado con HTML, CSS, Bootstrap, Javascript y JSON.
+
+🔗 **[Prototipo interactivo](https://jmcstoltze.github.io/podcast-magazine-demo/)**
+📂 **[Repositorio](https://github.com/jmcstoltze/podcast-magazine-demo)**
+
+<div align="center" style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+  <div style="display: flex; justify-content: center; gap: 20px; width: 100%;">
+    <img src="screenshots/podcast-0.png" alt="" style="width: 90%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="screenshots/podcast-1.png" alt="" style="width: 80%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="screenshots/podcast-2.png" alt="" style="width: 80%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+</div>
+
 ### 📚 Reseñas de Libros (Book Reviews Platform)
 
 Sitio Web responsive, desarrollado con Django.
